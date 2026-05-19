@@ -1,0 +1,575 @@
+win_criterion,correlation_measure,rho_xy,rho_uv,eta_x,eta_y,winning_weight,n_wins,total_wins,prop_wins
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,0,PPW,25,28,0.8928571428571429
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,0,CW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,4,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,4,CW,2,28,0.07142857142857142
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,0,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,0,CW,2,28,0.07142857142857142
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,4,PPW,22,28,0.7857142857142857
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,4,CW,4,28,0.14285714285714285
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0,4,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,0,CW,22,30,0.7333333333333333
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,0,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,0,MOPW,3,30,0.1
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,4,no_weight,14,27,0.5185185185185185
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,4,OPW,5,27,0.18518518518518517
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,4,PPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,0,4,MOPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,0,no_weight,15,27,0.5555555555555556
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,0,OPW,6,27,0.2222222222222222
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,0,PPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,4,PPW,13,25,0.52
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,4,no_weight,7,25,0.28
+Coverage closest to 0.95 for observed rho,Pearson,0,0.5,4,4,OPW,5,25,0.2
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,0,PPW,13,25,0.52
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,0,no_weight,8,25,0.32
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,0,OPW,4,25,0.16
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,4,PPW,18,29,0.6206896551724138
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,4,OPW,6,29,0.20689655172413793
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,4,CW,3,29,0.10344827586206896
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,0,4,MOPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,0,PPW,19,27,0.7037037037037037
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,0,OPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,0,no_weight,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,4,PPW,21,27,0.7777777777777778
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,4,OPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,4,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0,4,4,no_weight,1,27,0.037037037037037035
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,0,CW,16,30,0.5333333333333333
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,0,OPW,7,30,0.23333333333333334
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,0,MOPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,0,PPW,3,30,0.1
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,4,PPW,14,28,0.5
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,4,CW,10,28,0.35714285714285715
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,4,OPW,3,28,0.10714285714285714
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,0,PPW,13,25,0.52
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,0,no_weight,9,25,0.36
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,0,OPW,3,25,0.12
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,4,PPW,16,28,0.5714285714285714
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,4,CW,7,28,0.25
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,4,OPW,4,28,0.14285714285714285
+Coverage closest to 0.95 for observed rho,Pearson,0.5,0.5,4,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,0,PPW,25,28,0.8928571428571429
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,0,CW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,4,PPW,19,28,0.6785714285714286
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,4,CW,7,28,0.25
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Phi,0,0,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Phi,0,0,4,0,PPW,18,25,0.72
+Coverage closest to 0.95 for observed rho,Phi,0,0,4,0,no_weight,7,25,0.28
+Coverage closest to 0.95 for observed rho,Phi,0,0,4,4,no_weight,17,25,0.68
+Coverage closest to 0.95 for observed rho,Phi,0,0,4,4,PPW,8,25,0.32
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,0,0,no_weight,25,27,0.9259259259259259
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,0,0,OPW,1,27,0.037037037037037035
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,0,0,MOPW,1,27,0.037037037037037035
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,0,4,no_weight,23,26,0.8846153846153846
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,0,4,PPW,2,26,0.07692307692307693
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,0,4,OPW,1,26,0.038461538461538464
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,4,0,no_weight,19,27,0.7037037037037037
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,4,0,OPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,4,0,PPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,4,0,MOPW,1,27,0.037037037037037035
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,4,4,no_weight,23,26,0.8846153846153846
+Coverage closest to 0.95 for observed rho,Phi,0,0.5,4,4,PPW,3,26,0.11538461538461539
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,0,no_weight,14,25,0.56
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,0,PPW,5,25,0.2
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,0,OPW,5,25,0.2
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,0,MOPW,1,25,0.04
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,4,no_weight,12,26,0.46153846153846156
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,4,PPW,9,26,0.34615384615384615
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,4,OPW,4,26,0.15384615384615385
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,0,4,MOPW,1,26,0.038461538461538464
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,0,PPW,10,26,0.38461538461538464
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,0,no_weight,9,26,0.34615384615384615
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,0,OPW,5,26,0.19230769230769232
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,0,MOPW,2,26,0.07692307692307693
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,4,PPW,16,27,0.5925925925925926
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,4,no_weight,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,4,OPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Phi,0.5,0,4,4,MOPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,0,no_weight,19,25,0.76
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,0,OPW,4,25,0.16
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,0,PPW,2,25,0.08
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,4,no_weight,17,27,0.6296296296296297
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,4,PPW,6,27,0.2222222222222222
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,4,OPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,0,4,MOPW,1,27,0.037037037037037035
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,0,no_weight,11,26,0.4230769230769231
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,0,PPW,9,26,0.34615384615384615
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,0,OPW,4,26,0.15384615384615385
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,0,MOPW,2,26,0.07692307692307693
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,4,no_weight,13,25,0.52
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,4,PPW,6,25,0.24
+Coverage closest to 0.95 for observed rho,Phi,0.5,0.5,4,4,OPW,6,25,0.24
+Coverage closest to 0.95 for observed rho,Spearman,0,0,0,0,PPW,24,25,0.96
+Coverage closest to 0.95 for observed rho,Spearman,0,0,0,0,no_weight,1,25,0.04
+Coverage closest to 0.95 for observed rho,Spearman,0,0,0,4,PPW,23,28,0.8214285714285714
+Coverage closest to 0.95 for observed rho,Spearman,0,0,0,4,CW,3,28,0.10714285714285714
+Coverage closest to 0.95 for observed rho,Spearman,0,0,0,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,0,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,0,CW,2,28,0.07142857142857142
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,4,PPW,20,28,0.7142857142857143
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,4,CW,6,28,0.21428571428571427
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0,4,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,0,CW,23,30,0.7666666666666667
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,0,OPW,3,30,0.1
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,0,MOPW,3,30,0.1
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,4,no_weight,18,28,0.6428571428571429
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,4,OPW,6,28,0.21428571428571427
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,4,MOPW,3,28,0.10714285714285714
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,0,4,PPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,0,no_weight,18,27,0.6666666666666666
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,0,OPW,5,27,0.18518518518518517
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,0,PPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,4,no_weight,15,27,0.5555555555555556
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,4,OPW,8,27,0.2962962962962963
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,4,PPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Spearman,0,0.5,4,4,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,0,CW,18,28,0.6428571428571429
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,0,OPW,5,28,0.17857142857142858
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,0,PPW,3,28,0.10714285714285714
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,0,MOPW,2,28,0.07142857142857142
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,4,no_weight,13,26,0.5
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,4,PPW,7,26,0.2692307692307692
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,4,OPW,5,26,0.19230769230769232
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,0,4,MOPW,1,26,0.038461538461538464
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,0,no_weight,13,25,0.52
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,0,PPW,7,25,0.28
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,0,OPW,5,25,0.2
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,4,PPW,18,28,0.6428571428571429
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,4,OPW,7,28,0.25
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,4,MOPW,2,28,0.07142857142857142
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0,4,4,no_weight,1,28,0.03571428571428571
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,0,no_weight,19,27,0.7037037037037037
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,0,OPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,0,PPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,4,no_weight,14,26,0.5384615384615384
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,4,PPW,8,26,0.3076923076923077
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,4,OPW,3,26,0.11538461538461539
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,0,4,MOPW,1,26,0.038461538461538464
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,0,no_weight,15,26,0.5769230769230769
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,0,PPW,7,26,0.2692307692307692
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,0,OPW,3,26,0.11538461538461539
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,0,MOPW,1,26,0.038461538461538464
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,4,no_weight,15,25,0.6
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,4,PPW,9,25,0.36
+Coverage closest to 0.95 for observed rho,Spearman,0.5,0.5,4,4,OPW,1,25,0.04
+Coverage closest to 0.95 for true rho,Pearson,0,0,0,0,PPW,24,25,0.96
+Coverage closest to 0.95 for true rho,Pearson,0,0,0,0,no_weight,1,25,0.04
+Coverage closest to 0.95 for true rho,Pearson,0,0,0,4,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,0,4,CW,2,28,0.07142857142857142
+Coverage closest to 0.95 for true rho,Pearson,0,0,0,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,0,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,0,CW,2,28,0.07142857142857142
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,4,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,4,OPW,2,28,0.07142857142857142
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,4,CW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0,4,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,0,CW,23,30,0.7666666666666667
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,0,OPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,0,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,4,CW,24,29,0.8275862068965517
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,4,OPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,4,MOPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,0,4,PPW,1,29,0.034482758620689655
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,0,CW,24,29,0.8275862068965517
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,0,OPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,0,MOPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,0,PPW,1,29,0.034482758620689655
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,4,CW,23,30,0.7666666666666667
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,4,OPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,4,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Pearson,0,0.5,4,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,0,PPW,13,37,0.35135135135135137
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,0,no_weight,9,37,0.24324324324324326
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,0,CW,9,37,0.24324324324324326
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,0,OPW,5,37,0.13513513513513514
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,0,MOPW,1,37,0.02702702702702703
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,4,PPW,20,27,0.7407407407407407
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,4,OPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,4,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,0,4,no_weight,1,27,0.037037037037037035
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,0,PPW,21,27,0.7777777777777778
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,0,OPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,0,no_weight,1,27,0.037037037037037035
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,4,PPW,21,27,0.7777777777777778
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,4,OPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,4,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Pearson,0.5,0,4,4,no_weight,1,27,0.037037037037037035
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,0,no_weight,19,27,0.7037037037037037
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,0,OPW,4,27,0.14814814814814814
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,0,PPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,4,CW,21,30,0.7
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,4,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,4,MOPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,0,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,0,CW,21,30,0.7
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,0,OPW,5,30,0.16666666666666666
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,0,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,4,CW,21,30,0.7
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,4,OPW,5,30,0.16666666666666666
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,4,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Pearson,0.5,0.5,4,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Phi,0,0,0,0,PPW,24,25,0.96
+Coverage closest to 0.95 for true rho,Phi,0,0,0,0,no_weight,1,25,0.04
+Coverage closest to 0.95 for true rho,Phi,0,0,0,4,PPW,19,35,0.5428571428571428
+Coverage closest to 0.95 for true rho,Phi,0,0,0,4,no_weight,7,35,0.2
+Coverage closest to 0.95 for true rho,Phi,0,0,0,4,CW,7,35,0.2
+Coverage closest to 0.95 for true rho,Phi,0,0,0,4,OPW,1,35,0.02857142857142857
+Coverage closest to 0.95 for true rho,Phi,0,0,0,4,MOPW,1,35,0.02857142857142857
+Coverage closest to 0.95 for true rho,Phi,0,0,4,0,PPW,19,26,0.7307692307692307
+Coverage closest to 0.95 for true rho,Phi,0,0,4,0,no_weight,7,26,0.2692307692307692
+Coverage closest to 0.95 for true rho,Phi,0,0,4,4,PPW,16,29,0.5517241379310345
+Coverage closest to 0.95 for true rho,Phi,0,0,4,4,CW,9,29,0.3103448275862069
+Coverage closest to 0.95 for true rho,Phi,0,0,4,4,OPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Phi,0,0,4,4,MOPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,0,no_weight,22,27,0.8148148148148148
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,0,MOPW,3,27,0.1111111111111111
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,0,OPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,4,CW,24,29,0.8275862068965517
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,4,OPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,4,MOPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Phi,0,0.5,0,4,PPW,1,29,0.034482758620689655
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,0,CW,21,30,0.7
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,0,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,0,MOPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,4,CW,22,30,0.7333333333333333
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,4,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,4,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Phi,0,0.5,4,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,0,PPW,22,27,0.8148148148148148
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,0,OPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,0,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,0,no_weight,1,27,0.037037037037037035
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,4,PPW,21,25,0.84
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,4,no_weight,3,25,0.12
+Coverage closest to 0.95 for true rho,Phi,0.5,0,0,4,MOPW,1,25,0.04
+Coverage closest to 0.95 for true rho,Phi,0.5,0,4,0,PPW,20,25,0.8
+Coverage closest to 0.95 for true rho,Phi,0.5,0,4,0,no_weight,4,25,0.16
+Coverage closest to 0.95 for true rho,Phi,0.5,0,4,0,OPW,1,25,0.04
+Coverage closest to 0.95 for true rho,Phi,0.5,0,4,4,PPW,18,25,0.72
+Coverage closest to 0.95 for true rho,Phi,0.5,0,4,4,no_weight,7,25,0.28
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,0,CW,22,30,0.7333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,0,MOPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,0,OPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,4,CW,21,30,0.7
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,4,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,4,MOPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,0,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,0,CW,21,30,0.7
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,0,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,0,MOPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,4,CW,18,30,0.6
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,4,OPW,6,30,0.2
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,4,MOPW,5,30,0.16666666666666666
+Coverage closest to 0.95 for true rho,Phi,0.5,0.5,4,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0,0,0,0,PPW,24,25,0.96
+Coverage closest to 0.95 for true rho,Spearman,0,0,0,0,no_weight,1,25,0.04
+Coverage closest to 0.95 for true rho,Spearman,0,0,0,4,PPW,23,28,0.8214285714285714
+Coverage closest to 0.95 for true rho,Spearman,0,0,0,4,CW,3,28,0.10714285714285714
+Coverage closest to 0.95 for true rho,Spearman,0,0,0,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,0,PPW,24,28,0.8571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,0,CW,2,28,0.07142857142857142
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,4,PPW,23,25,0.92
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,4,no_weight,1,25,0.04
+Coverage closest to 0.95 for true rho,Spearman,0,0,4,4,OPW,1,25,0.04
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,0,CW,25,28,0.8928571428571429
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,0,PPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,4,CW,25,28,0.8928571428571429
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,4,PPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,0,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,0,CW,25,28,0.8928571428571429
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,0,PPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,0,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,0,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,4,CW,25,28,0.8928571428571429
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,4,PPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,4,OPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0,0.5,4,4,MOPW,1,28,0.03571428571428571
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,0,CW,17,28,0.6071428571428571
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,0,OPW,6,28,0.21428571428571427
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,0,PPW,3,28,0.10714285714285714
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,0,MOPW,2,28,0.07142857142857142
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,4,PPW,18,26,0.6923076923076923
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,4,no_weight,4,26,0.15384615384615385
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,4,OPW,3,26,0.11538461538461539
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,0,4,MOPW,1,26,0.038461538461538464
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,0,PPW,18,25,0.72
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,0,no_weight,6,25,0.24
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,0,OPW,1,25,0.04
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,4,PPW,19,27,0.7037037037037037
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,4,OPW,5,27,0.18518518518518517
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,4,MOPW,2,27,0.07407407407407407
+Coverage closest to 0.95 for true rho,Spearman,0.5,0,4,4,no_weight,1,27,0.037037037037037035
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,0,CW,24,29,0.8275862068965517
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,0,OPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,0,MOPW,2,29,0.06896551724137931
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,0,PPW,1,29,0.034482758620689655
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,4,CW,22,30,0.7333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,4,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,4,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,0,4,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,0,CW,22,30,0.7333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,0,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,0,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,0,PPW,1,30,0.03333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,4,CW,22,30,0.7333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,4,OPW,4,30,0.13333333333333333
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,4,MOPW,3,30,0.1
+Coverage closest to 0.95 for true rho,Spearman,0.5,0.5,4,4,PPW,1,30,0.03333333333333333
+Smallest absolute bias to observed rho,Pearson,0,0,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0.5,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0.5,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0,0.5,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0.5,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0.5,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Pearson,0.5,0.5,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0.5,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0.5,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0,0.5,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0.5,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0.5,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Phi,0.5,0.5,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0.5,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0.5,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0,0.5,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0,4,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0.5,0,4,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0.5,4,0,no_weight,25,25,1
+Smallest absolute bias to observed rho,Spearman,0.5,0.5,4,4,no_weight,25,25,1
+Smallest absolute bias to true rho,Pearson,0,0,0,0,PPW,16,29,0.5517241379310345
+Smallest absolute bias to true rho,Pearson,0,0,0,0,CW,9,29,0.3103448275862069
+Smallest absolute bias to true rho,Pearson,0,0,0,0,OPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Pearson,0,0,0,0,MOPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Pearson,0,0,0,4,CW,18,30,0.6
+Smallest absolute bias to true rho,Pearson,0,0,0,4,PPW,5,30,0.16666666666666666
+Smallest absolute bias to true rho,Pearson,0,0,0,4,MOPW,4,30,0.13333333333333333
+Smallest absolute bias to true rho,Pearson,0,0,0,4,OPW,3,30,0.1
+Smallest absolute bias to true rho,Pearson,0,0,4,0,CW,23,28,0.8214285714285714
+Smallest absolute bias to true rho,Pearson,0,0,4,0,PPW,3,28,0.10714285714285714
+Smallest absolute bias to true rho,Pearson,0,0,4,0,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0,4,0,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0,4,4,OPW,11,31,0.3548387096774194
+Smallest absolute bias to true rho,Pearson,0,0,4,4,MOPW,11,31,0.3548387096774194
+Smallest absolute bias to true rho,Pearson,0,0,4,4,PPW,8,31,0.25806451612903225
+Smallest absolute bias to true rho,Pearson,0,0,4,4,no_weight,1,31,0.03225806451612903
+Smallest absolute bias to true rho,Pearson,0,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to true rho,Pearson,0,0.5,0,4,CW,25,28,0.8928571428571429
+Smallest absolute bias to true rho,Pearson,0,0.5,0,4,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,0,4,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,0,4,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,4,0,CW,25,28,0.8928571428571429
+Smallest absolute bias to true rho,Pearson,0,0.5,4,0,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,4,0,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,4,0,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,4,4,CW,25,28,0.8928571428571429
+Smallest absolute bias to true rho,Pearson,0,0.5,4,4,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,4,4,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0,0.5,4,4,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0.5,0,0,0,CW,24,28,0.8571428571428571
+Smallest absolute bias to true rho,Pearson,0.5,0,0,0,MOPW,2,28,0.07142857142857142
+Smallest absolute bias to true rho,Pearson,0.5,0,0,0,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0.5,0,0,0,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Pearson,0.5,0,0,4,no_weight,13,26,0.5
+Smallest absolute bias to true rho,Pearson,0.5,0,0,4,PPW,8,26,0.3076923076923077
+Smallest absolute bias to true rho,Pearson,0.5,0,0,4,OPW,4,26,0.15384615384615385
+Smallest absolute bias to true rho,Pearson,0.5,0,0,4,MOPW,1,26,0.038461538461538464
+Smallest absolute bias to true rho,Pearson,0.5,0,4,0,no_weight,13,26,0.5
+Smallest absolute bias to true rho,Pearson,0.5,0,4,0,PPW,8,26,0.3076923076923077
+Smallest absolute bias to true rho,Pearson,0.5,0,4,0,OPW,4,26,0.15384615384615385
+Smallest absolute bias to true rho,Pearson,0.5,0,4,0,MOPW,1,26,0.038461538461538464
+Smallest absolute bias to true rho,Pearson,0.5,0,4,4,no_weight,20,25,0.8
+Smallest absolute bias to true rho,Pearson,0.5,0,4,4,PPW,5,25,0.2
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,0,CW,23,30,0.7666666666666667
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,0,OPW,3,30,0.1
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,0,MOPW,3,30,0.1
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,0,PPW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,4,CW,19,30,0.6333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,4,OPW,6,30,0.2
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,4,MOPW,4,30,0.13333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,0,4,PPW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,0,CW,19,30,0.6333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,0,OPW,6,30,0.2
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,0,MOPW,4,30,0.13333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,0,PPW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,4,CW,17,32,0.53125
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,4,OPW,9,32,0.28125
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,4,MOPW,5,32,0.15625
+Smallest absolute bias to true rho,Pearson,0.5,0.5,4,4,PPW,1,32,0.03125
+Smallest absolute bias to true rho,Phi,0,0,0,0,PPW,15,29,0.5172413793103449
+Smallest absolute bias to true rho,Phi,0,0,0,0,CW,10,29,0.3448275862068966
+Smallest absolute bias to true rho,Phi,0,0,0,0,OPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Phi,0,0,0,0,MOPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Phi,0,0,0,4,CW,17,31,0.5483870967741935
+Smallest absolute bias to true rho,Phi,0,0,0,4,MOPW,6,31,0.1935483870967742
+Smallest absolute bias to true rho,Phi,0,0,0,4,OPW,5,31,0.16129032258064516
+Smallest absolute bias to true rho,Phi,0,0,0,4,PPW,3,31,0.0967741935483871
+Smallest absolute bias to true rho,Phi,0,0,4,0,no_weight,16,27,0.5925925925925926
+Smallest absolute bias to true rho,Phi,0,0,4,0,OPW,6,27,0.2222222222222222
+Smallest absolute bias to true rho,Phi,0,0,4,0,PPW,3,27,0.1111111111111111
+Smallest absolute bias to true rho,Phi,0,0,4,0,MOPW,2,27,0.07407407407407407
+Smallest absolute bias to true rho,Phi,0,0,4,4,CW,10,32,0.3125
+Smallest absolute bias to true rho,Phi,0,0,4,4,MOPW,10,32,0.3125
+Smallest absolute bias to true rho,Phi,0,0,4,4,PPW,6,32,0.1875
+Smallest absolute bias to true rho,Phi,0,0,4,4,OPW,6,32,0.1875
+Smallest absolute bias to true rho,Phi,0,0.5,0,0,no_weight,23,27,0.8518518518518519
+Smallest absolute bias to true rho,Phi,0,0.5,0,0,OPW,2,27,0.07407407407407407
+Smallest absolute bias to true rho,Phi,0,0.5,0,0,MOPW,2,27,0.07407407407407407
+Smallest absolute bias to true rho,Phi,0,0.5,0,4,CW,23,29,0.7931034482758621
+Smallest absolute bias to true rho,Phi,0,0.5,0,4,MOPW,3,29,0.10344827586206896
+Smallest absolute bias to true rho,Phi,0,0.5,0,4,OPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Phi,0,0.5,0,4,PPW,1,29,0.034482758620689655
+Smallest absolute bias to true rho,Phi,0,0.5,4,0,CW,23,29,0.7931034482758621
+Smallest absolute bias to true rho,Phi,0,0.5,4,0,MOPW,3,29,0.10344827586206896
+Smallest absolute bias to true rho,Phi,0,0.5,4,0,OPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Phi,0,0.5,4,0,PPW,1,29,0.034482758620689655
+Smallest absolute bias to true rho,Phi,0,0.5,4,4,CW,23,30,0.7666666666666667
+Smallest absolute bias to true rho,Phi,0,0.5,4,4,OPW,3,30,0.1
+Smallest absolute bias to true rho,Phi,0,0.5,4,4,MOPW,3,30,0.1
+Smallest absolute bias to true rho,Phi,0,0.5,4,4,PPW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Phi,0.5,0,0,0,PPW,16,30,0.5333333333333333
+Smallest absolute bias to true rho,Phi,0.5,0,0,0,OPW,8,30,0.26666666666666666
+Smallest absolute bias to true rho,Phi,0.5,0,0,0,MOPW,5,30,0.16666666666666666
+Smallest absolute bias to true rho,Phi,0.5,0,0,0,CW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Phi,0.5,0,0,4,PPW,19,25,0.76
+Smallest absolute bias to true rho,Phi,0.5,0,0,4,no_weight,5,25,0.2
+Smallest absolute bias to true rho,Phi,0.5,0,0,4,MOPW,1,25,0.04
+Smallest absolute bias to true rho,Phi,0.5,0,4,0,PPW,19,25,0.76
+Smallest absolute bias to true rho,Phi,0.5,0,4,0,no_weight,5,25,0.2
+Smallest absolute bias to true rho,Phi,0.5,0,4,0,MOPW,1,25,0.04
+Smallest absolute bias to true rho,Phi,0.5,0,4,4,no_weight,15,25,0.6
+Smallest absolute bias to true rho,Phi,0.5,0,4,4,PPW,10,25,0.4
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,0,CW,22,30,0.7333333333333333
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,0,MOPW,4,30,0.13333333333333333
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,0,OPW,3,30,0.1
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,0,PPW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,4,CW,19,31,0.6129032258064516
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,4,OPW,6,31,0.1935483870967742
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,4,MOPW,5,31,0.16129032258064516
+Smallest absolute bias to true rho,Phi,0.5,0.5,0,4,PPW,1,31,0.03225806451612903
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,0,CW,19,31,0.6129032258064516
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,0,OPW,6,31,0.1935483870967742
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,0,MOPW,5,31,0.16129032258064516
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,0,PPW,1,31,0.03225806451612903
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,4,CW,16,32,0.5
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,4,OPW,10,32,0.3125
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,4,MOPW,5,32,0.15625
+Smallest absolute bias to true rho,Phi,0.5,0.5,4,4,PPW,1,32,0.03125
+Smallest absolute bias to true rho,Spearman,0,0,0,0,PPW,13,29,0.4482758620689655
+Smallest absolute bias to true rho,Spearman,0,0,0,0,CW,10,29,0.3448275862068966
+Smallest absolute bias to true rho,Spearman,0,0,0,0,OPW,4,29,0.13793103448275862
+Smallest absolute bias to true rho,Spearman,0,0,0,0,MOPW,2,29,0.06896551724137931
+Smallest absolute bias to true rho,Spearman,0,0,0,4,CW,22,28,0.7857142857142857
+Smallest absolute bias to true rho,Spearman,0,0,0,4,PPW,2,28,0.07142857142857142
+Smallest absolute bias to true rho,Spearman,0,0,0,4,OPW,2,28,0.07142857142857142
+Smallest absolute bias to true rho,Spearman,0,0,0,4,MOPW,2,28,0.07142857142857142
+Smallest absolute bias to true rho,Spearman,0,0,4,0,no_weight,25,25,1
+Smallest absolute bias to true rho,Spearman,0,0,4,4,OPW,11,29,0.3793103448275862
+Smallest absolute bias to true rho,Spearman,0,0,4,4,PPW,10,29,0.3448275862068966
+Smallest absolute bias to true rho,Spearman,0,0,4,4,MOPW,7,29,0.2413793103448276
+Smallest absolute bias to true rho,Spearman,0,0,4,4,no_weight,1,29,0.034482758620689655
+Smallest absolute bias to true rho,Spearman,0,0.5,0,0,no_weight,25,25,1
+Smallest absolute bias to true rho,Spearman,0,0.5,0,4,CW,25,28,0.8928571428571429
+Smallest absolute bias to true rho,Spearman,0,0.5,0,4,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,0,4,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,0,4,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,4,0,CW,25,28,0.8928571428571429
+Smallest absolute bias to true rho,Spearman,0,0.5,4,0,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,4,0,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,4,0,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,4,4,CW,25,28,0.8928571428571429
+Smallest absolute bias to true rho,Spearman,0,0.5,4,4,PPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,4,4,OPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0,0.5,4,4,MOPW,1,28,0.03571428571428571
+Smallest absolute bias to true rho,Spearman,0.5,0,0,0,no_weight,24,25,0.96
+Smallest absolute bias to true rho,Spearman,0.5,0,0,0,MOPW,1,25,0.04
+Smallest absolute bias to true rho,Spearman,0.5,0,0,4,PPW,12,30,0.4
+Smallest absolute bias to true rho,Spearman,0.5,0,0,4,OPW,8,30,0.26666666666666666
+Smallest absolute bias to true rho,Spearman,0.5,0,0,4,MOPW,6,30,0.2
+Smallest absolute bias to true rho,Spearman,0.5,0,0,4,no_weight,4,30,0.13333333333333333
+Smallest absolute bias to true rho,Spearman,0.5,0,4,0,PPW,11,30,0.36666666666666664
+Smallest absolute bias to true rho,Spearman,0.5,0,4,0,OPW,8,30,0.26666666666666666
+Smallest absolute bias to true rho,Spearman,0.5,0,4,0,MOPW,6,30,0.2
+Smallest absolute bias to true rho,Spearman,0.5,0,4,0,no_weight,5,30,0.16666666666666666
+Smallest absolute bias to true rho,Spearman,0.5,0,4,4,no_weight,22,25,0.88
+Smallest absolute bias to true rho,Spearman,0.5,0,4,4,PPW,3,25,0.12
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,0,CW,23,30,0.7666666666666667
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,0,OPW,3,30,0.1
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,0,MOPW,3,30,0.1
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,0,PPW,1,30,0.03333333333333333
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,4,CW,20,31,0.6451612903225806
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,4,OPW,6,31,0.1935483870967742
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,4,MOPW,4,31,0.12903225806451613
+Smallest absolute bias to true rho,Spearman,0.5,0.5,0,4,PPW,1,31,0.03225806451612903
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,0,CW,20,31,0.6451612903225806
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,0,OPW,6,31,0.1935483870967742
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,0,MOPW,4,31,0.12903225806451613
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,0,PPW,1,31,0.03225806451612903
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,4,CW,16,32,0.5
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,4,OPW,10,32,0.3125
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,4,MOPW,5,32,0.15625
+Smallest absolute bias to true rho,Spearman,0.5,0.5,4,4,PPW,1,32,0.03125
